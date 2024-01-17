@@ -11,7 +11,7 @@ Ymuno ein [Discord](https://discord.gg/gee-skid)
 --- 
 
 # My Public Scripts:
-TBA
+- [**Snake**](https://github.com/Rimmuru/Rimurus-Stand-Scripts/tree/main/snake%20game) - Snake game replica
 
 ---
 
