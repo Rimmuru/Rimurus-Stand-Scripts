@@ -1,4 +1,4 @@
-# Rimurus stand Scripts
+# Rimurus Stand Scripts
 
 Welcome to my repository where you can find all scripts developed by me for Stand. <br/>
 Croeso i fy nghronfa ddata lle gallwch ddod o hyd i'r holl sgriptiau a ddatblygwyd gennyf ar gyfer Stand. Mae'r scripts hyn yn amrywio o offer defnyddiol i welliannau gameplay, wedi'u cynllunio i gyfoethogi eich profiad GTA5 <br/> 
